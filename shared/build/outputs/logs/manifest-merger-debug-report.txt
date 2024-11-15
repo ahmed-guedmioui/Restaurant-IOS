@@ -1,0 +1,16 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/ahmedguedmioui/Desktop/Other/KMM/Restaurants-App/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest16054394741612740227.xml:2:13-83
+INJECTED from /Users/ahmedguedmioui/Desktop/Other/KMM/Restaurants-App/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest16054394741612740227.xml:2:13-83
+	package
+		INJECTED from /Users/ahmedguedmioui/Desktop/Other/KMM/Restaurants-App/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest16054394741612740227.xml
+	xmlns:android
+		ADDED from /Users/ahmedguedmioui/Desktop/Other/KMM/Restaurants-App/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest16054394741612740227.xml:2:23-81
+uses-sdk
+INJECTED from /Users/ahmedguedmioui/Desktop/Other/KMM/Restaurants-App/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest16054394741612740227.xml reason: use-sdk injection requested
+INJECTED from /Users/ahmedguedmioui/Desktop/Other/KMM/Restaurants-App/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest16054394741612740227.xml
+INJECTED from /Users/ahmedguedmioui/Desktop/Other/KMM/Restaurants-App/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest16054394741612740227.xml
+	android:targetSdkVersion
+		INJECTED from /Users/ahmedguedmioui/Desktop/Other/KMM/Restaurants-App/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest16054394741612740227.xml
+	android:minSdkVersion
+		INJECTED from /Users/ahmedguedmioui/Desktop/Other/KMM/Restaurants-App/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest16054394741612740227.xml
